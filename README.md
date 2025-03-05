@@ -11,7 +11,7 @@
  
 - 🌱 I’m Currently Learning **Data analysis libraries in Python**
 
-- - 📫 How To Reach Me **MSalehNasrabadi@Gmail.Com**
+- 📫 How To Reach Me **MSalehNasrabadi@Gmail.Com**
 
 - 👨‍💻 All Of My Projects Are Available At [Https://Github.Com/ItzSqleh](Https://Github.Com/ItzSqleh)
 
