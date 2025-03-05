@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammad Saleh Nasrabadi</h1>
 <h3 align="center">Python Programmer | Machine Learning Enthusiast | Creative Video Editor | Content Creator</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itzsqleh&label=Profile%20views&color=0e75b6&style=flat" alt="itzsqleh" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itzsqleh" alt="itzsqleh" /></a> </p>
-
 - 🔭 I’m Currently Working On : **DoIt - To Do List Project**
 
 - 👯 Looking To Collaborate On : **Machine Learning Project**
