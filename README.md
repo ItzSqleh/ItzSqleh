@@ -1,73 +1,69 @@
-<h1 align="center">Hi there, I'm Saleh 👋</h1>
+![Dark Mode Banner](https://source.unsplash.com/1600x400/?technology,dark)
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=F7F7F7&background=000000&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Python+Developer+%7C+ML+%26+AI+Enthusiast;Computer+Vision+Researcher+%7C+Content+Creator" alt="Typing SVG" />
+<h1 align="center">Hi 👋, I'm Mohammad Saleh Nasrabadi</h1>
+<h3 align="center">Python Programmer | Machine Learning Enthusiast | Creative Video Editor | Content Creator</h3>
+
+---
+
+### 🔭 I’m Currently Working On:
+- **DoIt - To Do List Project**
+
+### 👯 Looking To Collaborate On:
+- **Machine Learning Project**
+
+### 🤝 I’m Looking For Help With:
+- **Machine Learning Project**
+
+### 💬 Ask Me About:
+- **Python issues & Database optimization**
+
+### 🌱 I’m Currently Learning:
+- **Data analysis libraries in Python**
+
+### 📫 How To Reach Me:
+- **MSalehNasrabadi@Gmail.Com**
+
+### 👨‍💻 All Of My Projects Are Available At:
+- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ItzSqleh)
+
+---
+
+## 📱 Connect with me:
+<p align="left">
+<a href="https://linkedin.com/in/sqleh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sqleh" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/itzsqleh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="itzsqleh" height="30" width="40" /></a>
+<a href="https://instagram.com/itzsqleh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itzsqleh" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/saleh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="saleh" height="30" width="40" /></a>
 </p>
 
 ---
 
-## 🌌 About Me
-
-- 🚀 Working on **AI-driven Computer Vision** solutions @ **Mega Vision**
-- 🛠️ Developing **DoIt - To Do List** with optimized **database management**
-- 🤝 Open to collaborations in **Machine Learning, AI, and Robotics**
-- 📖 Currently learning **Advanced Deep Learning** and **AI Pipelines Optimization**
-
----
-
-## 🛠 Tech Stack
-
-### **Programming Languages**
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-### **AI & ML**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=black)
-
-### **Databases**
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### **Web & Backend**
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-%23009788.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itzsqleh&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzsqleh&theme=dark&hide_border=true" alt="GitHub Streak">
+## 🛠️ Languages and Tools:
+<p align="left">
+  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </p>
 
 ---
 
-## 🌎 Connect with Me
-
+## 📊 GitHub Stats:
 <p align="center">
-  <a href="https://linkedin.com/in/sqleh">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://stackoverflow.com/users/itzsqleh">
-    <img src="https://img.shields.io/badge/StackOverflow-%23FE7A16.svg?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow">
-  </a>
-  <a href="https://instagram.com/itzsqleh">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://www.youtube.com/c/saleh">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=itzsqleh&show_icons=true&theme=dark&locale=en" alt="itzsqleh" />
 </p>
 
 ---
 
-🔥 **Let's build the future of AI together!** 🚀
+### 🚀 Featured Projects:
+- **[DoIt - To Do List Project](https://github.com/ItzSqleh/DoIt)**
+- **[Machine Learning Projects](https://github.com/ItzSqleh?tab=repositories)**
+
+---
+
+⚡ *Passionate About Coding, Machine Learning, And Making Cool Content ! Feel Free To Reach Out And Connect!* 🚀
