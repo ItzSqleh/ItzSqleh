@@ -97,8 +97,4 @@
 
 ### 📫 Contact Me:
 📧 Email: [MSalehNasrabadi@Gmail.Com](mailto:MSalehNasrabadi@Gmail.Com)  
-🌐 Portfolio: [My Website](https://yourwebsite.com)  
-
----
-
-⭐ **Don't Forget To Star The Repo If You Like It!** ⭐
+🌐 Portfolio: [My Website](https://ItzSqleh.Github.io)  
