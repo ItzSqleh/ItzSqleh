@@ -17,7 +17,7 @@
 ### 🚀 Connect With Me:
 <p align="left">  
 <a href="https://linkedin.com/in/Sqleh" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>   
-<a href="https://t.me/ItzSqleh" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/1c/Telegram_logo.svg" alt="Telegram" height="30" width="40" /></a>   
+<a href="https://t.me/ItzSqleh" target="_blank"><img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram" height="30" width="40" /></a>   
 <a href="https://instagram.com/ItzSqleh" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>   
 <a href="https://twitter.com/ItzSqleh" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>   
 <a href="https://github.com/ItzSqleh" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>   
