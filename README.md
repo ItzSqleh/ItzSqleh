@@ -1,7 +1,5 @@
-![Banner](https://github.com/ItzSqleh/Banner.png)
-
 <h1 align="center">Hi 👋, I'm Mohammad Saleh Nasrabadi</h1>
-<h3 align="center">Python Programmer | Machine Learning Enthusiast | Creative Video Editor | Content Creator</h3>
+<h3 align="center">Junior Python Developer | Aspiring Data Scientist | AI & Machine Learning Enthusiast | Video Editor & Content Creator | Motion & Graphic Designer | UI/UX | Passionate About Leveraging Creativity In Tech</h3>
 
 ---
 
