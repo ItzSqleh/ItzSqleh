@@ -91,7 +91,6 @@
 ---
 
 ### 🎯 Fun Facts About Me:
-- 🎮 Love Playing Video Games
 - 🎥 Passionate About Video Editing
 - 🚀 Tech Enthusiast & AI Lover
 - 💡 Always Learning & Exploring New Technologies
