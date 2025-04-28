@@ -81,15 +81,6 @@
 
 ---
 
-### 🎥 Latest YouTube Videos:
-<!-- YOUTUBE:START -->
-- [🚀 Introduction To Machine Learning](https://www.youtube.com/watch?v=yourvideo1)
-- [💡 Python Tips & Tricks](https://www.youtube.com/watch?v=yourvideo2)
-- [🔥 Mastering Django In 10 Minutes](https://www.youtube.com/watch?v=yourvideo3)
-<!-- YOUTUBE:END -->
-
----
-
 ### 🎯 Fun Facts About Me:
 - 🎥 Passionate About Video Editing
 - 🚀 Tech Enthusiast & AI Lover
