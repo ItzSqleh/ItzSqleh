@@ -4,11 +4,7 @@
 ---
 
 🌟 **About Me**  
-🔭 I’m Currently Working On: **DoIt - To Do List Project**  
-👯 Looking To Collaborate On: **Machine Learning Projects**  
-🤝 I’m Looking For Help With: **Advanced Machine Learning Topics**  
-💬 Ask Me About: **Python Issues & Database Optimization**  
-🌱 I’m Currently Learning: **Data Analysis Libraries In Python**  
+
 📫 How To Reach Me: **MSalehNasrabadi@Gmail.Com**  
 👨‍💻 All Of My Projects Are Available At: [GitHub](https://github.com/ItzSqleh)
 
