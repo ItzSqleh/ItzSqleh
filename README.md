@@ -2,24 +2,7 @@
 
 <h3 align="center" id="typing-headline"></h3>
 
-<script>
-  const headline = "Junior Python Developer | Aspiring Data Scientist | AI & Machine Learning Enthusiast | Video Editor & Content Creator | Motion & Graphic Designer | UI/UX | Passionate About Leveraging Creativity In Tech";
-  const element = document.getElementById("typing-headline");
-  let i = 0;
-  
-  function typeWriter() {
-    if (i < headline.length) {
-      element.innerHTML += headline.charAt(i);
-      i++;
-      setTimeout(typeWriter, 50);
-    }
-  }
-  
-  // شروع افکت پس از لود صفحه
-  window.onload = function() {
-    typeWriter();
-  };
-</script>
+<h3 align="center">Junior Python Developer | Aspiring Data Scientist | AI & Machine Learning Enthusiast | Video Editor & Content Creator | Motion & Graphic Designer | UI/UX | Passionate About Leveraging Creativity In Tech</h3>
 
 ---
 
