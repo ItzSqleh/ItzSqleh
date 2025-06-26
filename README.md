@@ -69,8 +69,9 @@
 ---
 
 ### 🎯 Fun Facts About Me:
+- 🚀 Tech Enthusiast & AI Love
 - 🎥 Passionate About Video Editing
-- 🚀 Tech Enthusiast & AI Lover
+- 🎨 Interested In Designing
 - 💡 Always Learning & Exploring New Technologies
 
 ---
