@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Saleh Nasrabadi</h1>
-<h3 align="center">Junior Python Developer | Aspiring Data Scientist | AI & Machine Learning Enthusiast | Video Editor & Content Creator | Motion & Graphic Designer | UI/UX | Passionate About Leveraging Creativity In Tech</h3>
+<h3 align="center">Junior Python Developer | Digital Marketing Intern |Aspiring Data Scientist | AI & ML Enthusiast | Video Editor & Content Creator | Motion & Graphic Designer | UI/UX | Passionate About Leveraging Creativity In Tech</h3>
 
 ---
 
