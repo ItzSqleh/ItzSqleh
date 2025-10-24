@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Saleh Nasrabadi</h1>
-<h3 align="center">Digital Marketing Intern | Data-Driven Marketing Enthusiast | Junior Python Developer | Aspiring Data Scientist | AI & ML Enthusiast | Passionate About Leveraging Creativity In Tech</h3>
+<h3 align="center">Mid-Level Python Developer | Data-Driven Marketing & AI/ML Enthusiast | Passionate About Leveraging Creativity In Tech</h3>
 
 ---
 
