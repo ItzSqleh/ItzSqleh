@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Saleh Nasrabadi</h1>
-<h3 align="center">Mid-Level Python Developer | Data-Driven Marketing & AI/ML Enthusiast | Passionate About Leveraging Creativity In Tech</h3>
+<h3 align="center">Python Developer | AI & Data Science Enthusiast</h3>
 
 ---
 
@@ -62,8 +62,6 @@
 ### 📊 GitHub Stats:
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=itzsqleh&show_icons=true&theme=dark" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=itzsqleh&theme=dark" alt="GitHub Streak" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzsqleh&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 ---
